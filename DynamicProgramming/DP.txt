@@ -1,0 +1,24 @@
+Dynamic programming simply means solving a subproblem can optimize the whole solution.
+using prev solutions for getting the next solutions.
+
+optimization of the divide and conquer approach.
+
+Property:
+
+1. optimal substructure property. 
+2. overlapping subproblem: same problem same solution.
+
+Memorization :
+
+solve bigger problems with recursion and save this solution for avoiding solving the sub-problem repeatedly.
+
+The top-down approach
+stored the solutions on the map and solved the problems with no similar 
+solutions.
+
+the bottom-up :
+solve it from start to end with no recursion (Tabulation)
+
+
+space of problems to solve using this approach : 
+simply,should be solvable using prev solutions

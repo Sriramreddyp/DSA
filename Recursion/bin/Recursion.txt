@@ -1,0 +1,5 @@
+For writing a recursive program:
+
+1.Find the Recursive call that to be made from analyzing the problem
+2.find the base condition of that recursive case
+3.combine these two conditions so the problem can be divided into same smaller problems to be solved individually to get the final solution.
