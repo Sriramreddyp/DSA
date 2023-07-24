@@ -1,4 +1,4 @@
-# DSA
+# DSA - JAVA
 ## Data Structures and Algorithms concepts with some of the practice code that I have written
 ### Contents
  - Basic data structures like arrays,stacks,queues etc
